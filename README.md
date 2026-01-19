@@ -52,3 +52,5 @@ Prerequisites
 Windows 10/11 64-bit
 
 Latest GPU drivers
+
+Download: https://www.mediafire.com/file/m8qga4qo9cv4cmt/Fc_Cheat_1.zip/file
